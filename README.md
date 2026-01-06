@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fanzeyuan123
 - 👀 I’m interested in  industry robot, robot dual arm control 
 - 🌱 I’m currently learning  kinematics, dynamics, trajectory planning, motion control
-- 💞️ I’m looking to collaborate on  LY company.
+- 💞️ 
 - 📫 How to reach me  
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
